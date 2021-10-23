@@ -16,9 +16,13 @@
 </div>
 <hr />
 
-<p>
+<p align="right">
+  <a href="https://www.buymeacoffee.com/fhdaax">
+    <img src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Support me" title="Support me" width="200" align="left">
+  </a>
+
   <a href="https://twitter.com/intent/follow?screen_name=fhdaax">
-    <img src="https://user-images.githubusercontent.com/30201930/138553065-91615c08-78b2-4a2a-abbf-86ca2c44b58e.png" width="144" alt="Follow @fhdaax on Twitter" title="Follow @fhdaax on Twitter">
+    <img src="https://user-images.githubusercontent.com/30201930/138553065-91615c08-78b2-4a2a-abbf-86ca2c44b58e.png" width="144" alt="Follow @fhdaax" title="Follow @fhdaax">
   </a>
 
   <a href="https://github.com/sponsors/fhdaax">
