@@ -7,7 +7,7 @@
   	<span>I build and develop things on behalf of</span>
     &nbsp;
     <a title="AvalonX" href="https://avalonx.io">
-    	<img alt="avalonx" src="https://user-images.githubusercontent.com/30201930/138213545-3240b91b-15c5-4260-beb7-8dc2040525da.png" width="250" />
+    	<img alt="avalonx" src="https://user-images.githubusercontent.com/30201930/138213545-3240b91b-15c5-4260-beb7-8dc2040525da.png" width="150" />
     </a>
     <span>for companies, startups, and individuals.</span>
   </strong>
