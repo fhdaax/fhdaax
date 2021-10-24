@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, This is Fahad Hossain</h1>
 
-<h3 align="center">Full Stack Developer</h3>
-<br>
-<div align="center" ="center">
+<h3 align="center">Full Stack Open Source Developer</h3>
+
+<!-- <div align="center" ="center">
   <strong>
   	<span>I build and develop things on behalf of</span>
     &nbsp;
@@ -11,7 +11,7 @@
     </a>
     <span>for companies, startups, and individuals.</span>
   </strong>
-</div>
+</div> -->
 
 <hr>
 
