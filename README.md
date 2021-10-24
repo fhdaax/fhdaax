@@ -26,3 +26,9 @@
     <img src="https://user-images.githubusercontent.com/30201930/138553137-b79fe40a-95c0-4797-abf1-13defa5fcb5a.png" width="156" alt="Sponsor fhdaax" title="Sponsor fhdaax">
   </a>
 </p>
+
+<h4 align="center">
+  <a href="https://github.com/fhdaax/fhdaax/releases/download/resume/resume.pdf" title="Resume">
+    Resume
+  </a>
+</h4>
