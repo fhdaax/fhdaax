@@ -17,15 +17,15 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=fhdaax">
-    <img src="https://user-images.githubusercontent.com/30201930/138586507-3a30ffc6-f164-46ff-bc62-ba2fd927917f.png" height="45" alt="Follow @fhdaax" title="Follow @fhdaax" />
+    <img src="https://user-images.githubusercontent.com/30201930/138586507-3a30ffc6-f164-46ff-bc62-ba2fd927917f.png" height="45" alt="Follow @fhdaax" title="Follow me" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fhdaax">
-    <img src="https://user-images.githubusercontent.com/30201930/138586573-123cfc62-0fba-41c9-ab8b-125ca6aae25b.png" height="45" alt="Connect me" title="Connect me">
+    <img src="https://user-images.githubusercontent.com/30201930/138586573-123cfc62-0fba-41c9-ab8b-125ca6aae25b.png" height="45" alt="Connect fhdaax" title="Connect me">
   </a>
   &nbsp;
-  <a href="https://github.com/sponsors/fhdaax">
-    <img src="https://user-images.githubusercontent.com/30201930/138586625-1641f74c-2e46-4894-9a0d-25756ef84ef3.png" height="45" alt="Sponsor fhdaax" title="Sponsor fhdaax">
+  <a href="https://www.buymeacoffee.com/fhdaax">
+    <img src="https://user-images.githubusercontent.com/30201930/138586625-1641f74c-2e46-4894-9a0d-25756ef84ef3.png" height="45" alt="Sponsor fhdaax" title="Sponsor me">
   </a>
 </p>
 
