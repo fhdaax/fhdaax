@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, This is Fahad Hossain</h1>
+<h1 align="center">
+  <img alt="wave" src="https://user-images.githubusercontent.com/30201930/138713813-b8b7dc73-f5ee-4ca3-a03f-0e25e58e209a.gif" width="30" />, This is Fahad Hossain
+</h1>
 
 <h3 align="center">Full Stack Open Source Developer</h3>
 <br />
