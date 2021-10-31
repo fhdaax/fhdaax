@@ -31,4 +31,9 @@
   <img alt="fhdaax" src="https://user-images.githubusercontent.com/30201930/138695978-dd7fca89-da56-4780-bed7-f777cfda63db.png" width="100%" />
 </p>
 
+<p>
+  <small>
+    If my expertise and the project of your company || team share the same technologies, you are welcome to offer me a position.
+  </small>
+</p>
 <hr />
